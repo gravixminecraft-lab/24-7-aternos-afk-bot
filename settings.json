@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BBF-SMP.aternos.me",
-    "port": 56588,
+    "ip": "BBF-MC.aternos.me",
+    "port": 46340,
     "version": "1.20.1",
     "try-creative": false
   },
