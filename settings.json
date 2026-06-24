@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BBF-MC.aternos.me",
-    "port": 46340,
+    "ip": "HorizonNexusMC.aternos.me",
+    "port": 47692,
     "version": "1.20.1",
     "try-creative": false
   },
